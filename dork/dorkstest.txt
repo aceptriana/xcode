@@ -1,0 +1,22 @@
+("author/admin")shop
+("author/admin")2021
+("Comentarios en Hello world!")shop
+("Comentarios en Hello world!")2021
+("category/sin-categoria")shop
+("category/sin-categoria")2021
+("Just another WordPress site")shop
+("Just another WordPress site")2021
+("/wp/hello-world/")shop
+("/wp/hello-world/")2021
+("Proudly powered by WordPress")shop
+("Proudly powered by WordPress")2021
+("Comment on Hello world!")shop
+("Comment on Hello world!")2021
+("Welcome to WordPress. This is your first post.")shop
+("Welcome to WordPress. This is your first post.")2021
+("uncategorized/hello-world")shop
+("uncategorized/hello-world")2021
+("Mr WordPress on Hello world!")shop
+("Mr WordPress on Hello world!")2021
+("uncategorized")shop
+("uncategorized")2021
