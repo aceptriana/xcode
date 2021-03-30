@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/aceptriana/xcode/main/ss.png)
+![alt text](https://raw.githubusercontent.com/aceptriana/xcode/main/a.png)
 
 # Tools X-Code
 
